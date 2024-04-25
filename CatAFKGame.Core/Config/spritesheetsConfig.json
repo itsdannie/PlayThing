@@ -1,0 +1,40 @@
+{
+  "Characters": [
+    {
+      "Name": "Boudicca",
+      "Health": 100,
+      "SpriteConfig": {
+        "AssetName": "warrior_girl",
+        "FrameHeight": 88,
+        "FrameWidth": 138,
+        "Animations": [
+          {
+            "Name": "idle",
+            "FrameStart": 0,
+            "FramesCount": 6
+          },
+          {
+            "Name": "run",
+            "FrameStart": 6,
+            "FramesCount": 8
+          },
+          {
+            "Name": "combo_attack",
+            "FrameStart": 14,
+            "FramesCount": 12
+          },
+          {
+            "Name": "death",
+            "FrameStart": 26,
+            "FramesCount": 11
+          },
+          {
+            "Name": "hurt",
+            "FrameStart": 37,
+            "FramesCount": 4
+          }
+        ]
+      }
+    }
+  ]
+}
